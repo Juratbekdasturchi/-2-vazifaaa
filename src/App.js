@@ -1,6 +1,7 @@
 import logo from './logo.svg';
-import monitor from './Monitor.svg'
-import telefon from './Telefon.svg'
+import monitor from './Monitor.svg';
+import telefon from './Telefon.svg';
+import rasmbir from '.'
 import './App.css';
 
 function App() {
